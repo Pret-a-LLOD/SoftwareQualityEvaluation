@@ -1,9 +1,9 @@
 # software-quality
 
-Table 3.2 Overview of functional and Performance tests of Fintan and Terme-à-LLOD
+Overview of functional and Performance tests of Fintan and Terme-à-LLOD
 
-| test type     | Software modules      | test cases            |  test type     | Software modules      | test cases            |
-| :------------ |:--------------------: | ---------------------:| :------------  |:--------------------: | ---------------------:|
-| col 3 is      | some wordy text       | Convert-CoNLL-to-RDF  | col 3 is       | some wordy text       | Convert-CoNLL-to-RDF  |
-| col 2 is      | centered              |   $12                 |  col 2 is      | centered              |   $12                 |
-| col 2 is      | centered              |   $12                 |  col 2 is      | centered              |   $12                 |
+| Software modules    | test cases            | input sample          |  expected output  | actual output         |  
+| :------------       |:--------------------: | ---------------------:| :------------     |:--------------------: | 
+| col 3 is            | some wordy text       | Convert-CoNLL-to-RDF  | col 3 is          | some wordy text       | 
+| col 2 is            | centered              |   $12                 |  col 2 is         | centered              |                 
+| col 2 is            | centered              |   $12                 |  col 2 is         | centered              |   
