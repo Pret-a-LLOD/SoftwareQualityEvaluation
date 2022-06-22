@@ -13,7 +13,7 @@ Test results of
   - [OTIC](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/OTIC) 
   - [Cycles](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/Cycles) 
 - Workflow software test [Teanga](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/Teanga) 
-- Discovery software test [Teanga](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/Linghub) 
+- Discovery software test [Linghub](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/Linghub) 
 
 
 
