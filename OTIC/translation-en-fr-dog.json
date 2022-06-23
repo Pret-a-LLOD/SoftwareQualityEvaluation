@@ -1,0 +1,9 @@
+{
+   "sourceLabel":"dog",
+   "targetLabel":"chien@fr",
+   "score":1.0,
+   "targetLexicalEntry":"http://linguistic.linkeddata.es/id/apertium/lexiconFR/chien-n-fr",
+   "sourceLexicalEntry":"http://linguistic.linkeddata.es/id/apertium/lexiconEN/dog-n-en",
+   "fragmentPos":"noun",
+   "pos":"http://www.lexinfo.net/ontology/2.0/lexinfo#noun"
+}
