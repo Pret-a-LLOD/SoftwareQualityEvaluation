@@ -1,0 +1,9 @@
+endpoint 1
+/lexicalization/
+
+RS: 4189 seconds
+
+endpoint 2
+/createLemon/ 
+
+RS: 10 seconds
