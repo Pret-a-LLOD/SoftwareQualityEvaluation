@@ -8,7 +8,7 @@ Test results of
   - [Terme-à-LLOD](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/Term-a-llod) 
 - All linking software test can be found here [here](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/linking-software)
   - [CBL](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/linking-software/CBL) 
-  - [TermitUp](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/TermitUp) 
+  - [TermitUp](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/linking-software/TermitUp) 
   - [CIDER-EM](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/linking-software/CIDER-EM) 
   - [OTIC](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/linking-software/OTIC) 
   - [Cycles](https://github.com/Pret-a-LLOD/software-quality-evaluation/tree/main/linking-software/Cycles) 
