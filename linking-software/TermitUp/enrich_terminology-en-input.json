@@ -1,0 +1,12 @@
+{
+  "terms": "employment",
+  "resources": "iate",
+  "source_language": "en",
+  "target_languages": "es",
+  "schema_name": "test",
+  "corpus": "Employee shareholders have most of the same employment rights as people who are workers and as people who are employees.",
+  "relval": "no",
+  "output_format": "skos",
+  "sparql_publishing": "no"
+}
+

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": [
+      "https://termitup.oeg.fi.upm.es/static/def/context.json",
+      {
+        "@base": "https://termitup.oeg.fi.upm.es/terminology/"
+      }
+    ],
+    "@type": "skos:Concept",
+    "@id": "test-employment-en",
+    "inScheme": "test",
+    "example": {
+      "@language": "en",
+      "@value": "employee shareholders have most of the same employment rights as people who are workers and as people who are employees."
+    },
+    "source": [
+      "https://iate.europa.eu/entry/result/53737"
+    ],
+    "prefLabel": [
+      {
+        "@language": "en",
+        "@value": "employment"
+      },
+      {
+        "@language": "es",
+        "@value": "empleo"
+      }
+    ],
+    "definition": [
+      {
+        "@language": "en",
+        "@value": "covers all persons engaged in productive activity that falls within the production boundary of the national accounts"
+      }
+    ]
+  }
+]
